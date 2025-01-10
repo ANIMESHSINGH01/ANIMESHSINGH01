@@ -4,8 +4,11 @@
 <img align="right" alt="Coding" width="400" src=https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif >
 
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ANIMESHSINGH01&label=Profile%20views&color=0e75b6&style=flat" alt="ANIMESHSINGH01" /> </p>
 
 - 🌱 I’m currently learning **React.js**
+
+- 💬 Ask me about **MERN** 
 
 - 📫 How to reach me **animeshsingh624@gmail.com**
 
