@@ -6,9 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ANIMESHSINGH01&label=Profile%20views&color=0e75b6&style=flat" alt="ANIMESHSINGH01" /> </p>
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning **DSA and React.js**
 
-- 💬 Ask me about **MERN** 
+- 💬 Ask me about **Javascript,C++ and MERN** 
 
 - 📫 How to reach me **animeshsingh624@gmail.com**
 
